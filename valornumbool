@@ -1,0 +1,4 @@
+print('Apenas valor numérico')
+n1= (input('digite um valor numérico: '))
+print(n1.isnumeric())
+print('')
